@@ -44,3 +44,7 @@ var yoga=window.yoga;
     gzip压缩后为120k
 
 ![phaser-flexbox](https://github.com/liangdas/phaser-flexbox/blob/master/demo.png)
+
+### 优化
+
+    目前这个库还不是很完善，有一些功能可以优化，例如如果使用js特性更方便的设置flexbox,用接近css原生配置的方式完成设置等
