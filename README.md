@@ -4,6 +4,11 @@
 
 phaser-flexbox使用的是facebook开源的yoga作为flexbox计算库
 
+
+### flexbox入门
+
+[flexbox入门教程](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
+
 ### yoga地址
 
 [getting-started](https://facebook.github.io/yoga/docs/getting-started/)
