@@ -1,6 +1,10 @@
 # phaser-flexbox
 
-使用的是facebook开源的yoga作为flexbox计算库
+[项目github地址](https://github.com/liangdas/phaser-flexbox)
+
+phaser-flexbox使用的是facebook开源的yoga作为flexbox计算库
+
+### yoga地址
 
 [getting-started](https://facebook.github.io/yoga/docs/getting-started/)
 
@@ -8,7 +12,7 @@
 
 [flexbox样式枚举](https://github.com/facebook/yoga/blob/master/javascript/sources/YGEnums.js)
 
-# 文件说明
+### 文件说明
 
 > 由于yoga默认只支持es6以上,在部分浏览器上会出现不兼容,目测UC浏览器就不支持。
 
