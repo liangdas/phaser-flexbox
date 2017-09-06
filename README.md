@@ -38,3 +38,5 @@ var yoga=window.yoga;
 
     yoga库是用c++版本通过asm.js编译而成的,包体比较大 700k左右。使用的时候可以通过gzip方式压缩
     gzip压缩后为120k
+
+![phaser-flexbox](https://github.com/liangdas/phaser-flexbox/blob/master/demo.png)
